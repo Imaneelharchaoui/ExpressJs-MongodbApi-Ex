@@ -8,6 +8,6 @@ install dependencies
 
 In the project directory, you can run:
 
-### `Node server.js`
+### `Node server.js` 
 // the server will be listening on port 3000 
   
